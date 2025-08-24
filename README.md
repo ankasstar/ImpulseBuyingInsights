@@ -33,16 +33,14 @@ The dataset is stored in `data/psych_marketing_data.csv`.
 
 ## How to Run
 Clone the repository:
-```bash
-git clone https://github.com/<your-username>/ImpulseBuyingInsights.git
+```git clone https://github.com/<your-username>/ImpulseBuyingInsights.git```
 Install dependencies:
-```bash
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 Run the main analysis:
-```bash
-python scripts/analysis.py
+```python scripts/analysis.py```
 
-Features
+
+## Features
 - Calculate correlations between impulse buying and personality, stress, gender.
 - Form predefined clusters of participants based on traits and stress levels.
 - Create custom clusters interactively.
