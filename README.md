@@ -32,11 +32,11 @@ The dataset is stored in `data/psych_marketing_data.csv`.
 
 
 ## How to Run
-Clone the repository:
+- Clone the repository:
 ```git clone https://github.com/<your-username>/ImpulseBuyingInsights.git```
-Install dependencies:
+- Install dependencies:
 ```pip install -r requirements.txt```
-Run the main analysis:
+- Run the main analysis:
 ```python scripts/analysis.py```
 
 
