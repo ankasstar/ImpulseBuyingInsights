@@ -1,4 +1,4 @@
-# Impulse Buying Insights
+<img width="507" height="332" alt="image" src="https://github.com/user-attachments/assets/63a0f5c7-896c-45ac-930b-fa408420138c" /># Impulse Buying Insights
 Analysis of psychological traits and consumer behavior for impulse buying
 
 ## Project Overview
@@ -42,12 +42,14 @@ ImpulseBuyingInsights/
 
 
 ## How to Run
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/ImpulseBuyingInsights.git
 Install dependencies:
+```bash
 pip install -r requirements.txt
 Run the main analysis:
+```bash
 python scripts/analysis.py
 
 Features
