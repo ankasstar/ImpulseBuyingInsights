@@ -47,5 +47,5 @@ Run the main analysis:
 - Generate histograms, scatter plots, and bar charts to visualize results.
 - Compare reactions to discounts and luxury ads across clusters.
 
-Author
+Author: 
 ankasstar
