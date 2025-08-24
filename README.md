@@ -1,4 +1,4 @@
-<img width="507" height="332" alt="image" src="https://github.com/user-attachments/assets/63a0f5c7-896c-45ac-930b-fa408420138c" /># Impulse Buying Insights
+# Impulse Buying Insights
 Analysis of psychological traits and consumer behavior for impulse buying
 
 ## Project Overview
@@ -28,17 +28,7 @@ The dataset contains the following columns:
 The dataset is stored in `data/psych_marketing_data.csv`.
 
 ## Project Structure
-ImpulseBuyingInsights/
-│
-├─ data/ # CSV dataset
-│ └─ psych_marketing_data.csv
-│
-├─ scripts/ # Python scripts for analysis
-│ └─ analysis.py
-│
-├─ requirements.txt # Required Python libraries
-├─ README.md # Project overview
-└─ .gitignore # Files to ignore in Git
+<img width="507" height="332" alt="image" src="https://github.com/user-attachments/assets/63a0f5c7-896c-45ac-930b-fa408420138c" />
 
 
 ## How to Run
